@@ -1,0 +1,7 @@
+.classpath
+.project
+*.jar
+.lein-deps-sum
+classes/
+lib/
+target/
